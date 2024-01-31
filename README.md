@@ -250,6 +250,25 @@ SMS and text-to-speech notifications powered by Seven
 - [AWS EventBridge](https://github.com/ikhvost/medusa-event-bus-aws) ![source](https://img.shields.io/static/v1?label=community&message=&nbsp;&color=blue&style=flat-square) ![stars](https://img.shields.io/github/stars/ikhvost/medusa-event-bus-aws?color=green)  
 A Medusa module for seamless integration with AWS EventBridge, enabling real-time event handling in headless e-commerce applications.
 
+### Medusa Admin Mobile
+- [Medusa Admin Flutter](https://github.com/mllrr96/Medusa-Admin-Flutter)
+An open source Medusa Admin app for iOS and Android built with Flutter, with all the features that Medusa Admin dashboard offers on your mobile device.
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                <img src="https://github.com/mllrr96/Medusa-Admin-Flutter/blob/main/screenshots/sign-in-2.png" width="220"/>
+            </td>            
+            <td style="text-align: center">
+                <img src="https://github.com/mllrr96/Medusa-Admin-Flutter/blob/main/screenshots/order-2.png" width="220"/>
+            </td>
+            <td style="text-align: center">
+                <img src="https://github.com/mllrr96/Medusa-Admin-Flutter/blob/main/screenshots/discount-1.png" width="220"/>
+            </td>
+        </tr>
+    </table>
+</div>
+
 # Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
